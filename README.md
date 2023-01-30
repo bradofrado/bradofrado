@@ -1,5 +1,12 @@
 ### Hi there 👋
-
+- 🎓 I current study Computer Science at BYU
+- 🌱 I am currently learning Angular and Scala in preparation for my internship at Lucid Summer 2023
+- 👯 I am always looking for new opportunites to sharpen my tools in the toolbox
+- 📫 How to reach me/learn more:
+  - bradofrado@gmail.com
+  - https://www.linkedin.com/in/braydon-jones-042239217/
+  - https://braydonjones.com
+- ⚡ Fun Fact: I am the pianist in the band [Running Sons](https://runningsons.com)
 <!--
 **bradofrado/bradofrado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
