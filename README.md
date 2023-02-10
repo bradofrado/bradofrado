@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🎓 I current study Computer Science at BYU
+- 🎓 I currently study Computer Science at BYU
 - 🌱 I am currently learning Angular and Scala in preparation for my internship at Lucid Summer 2023
 - 👯 I am always looking for new opportunites to sharpen my tools in the toolbox
 - 📫 How to reach me/learn more:
