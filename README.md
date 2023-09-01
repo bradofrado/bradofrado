@@ -3,7 +3,7 @@
 - 🌱 I am currently learning React and Typescript as I am co-founding a software startup in the medical provider/attorney sphere
 - 👯 I am always looking for new opportunites to sharpen my tools in the toolbox
 - 📫 How to reach me/learn more:
-  - [bradofrado@gmail.com](sendto:bradofrado@gmail.com)
+  - [braydon.jones28@gmail.com](braydon.jones28@gmail.com)
   - [https://www.linkedin.com/in/braydon-jones-042239217/](https://www.linkedin.com/in/braydon-jones/)
   - [https://braydonjones.com](https://braydonjones.com)
 - ⚡ Fun Fact: I am the pianist in the band [Running Sons](https://runningsons.com)
