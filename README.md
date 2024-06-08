@@ -1,7 +1,7 @@
-### Hi there 👋
-- 🎓 I currently study Computer Science at BYU
-- 🌱 I am currently learning React and Typescript as I am co-founding a software startup in the medical provider/attorney sphere
-- 👯 I am always looking for new opportunites to sharpen my tools in the toolbox
+### Hello there 👋
+- 🎓 I currently study Computer Science at BYU.
+- 🌱 I am Co-founding a startup called [Harmony](https://harmonyui.app), a tool that allows designers to make edits to their Saas apps without needing a developer.
+- 👯 I am always looking for new opportunites to sharpen my tools in the toolbox.
 - 📫 How to reach me/learn more:
   - [braydon.jones28@gmail.com](sendto:braydon.jones28@gmail.com)
   - [https://www.linkedin.com/in/braydon-jones-042239217/](https://www.linkedin.com/in/braydon-jones/)
